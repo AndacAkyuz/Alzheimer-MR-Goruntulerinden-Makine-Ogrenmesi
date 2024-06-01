@@ -7,6 +7,11 @@ Bu proje, MR görüntülerinden Alzheimer hastalığını tespit etmek için kul
 https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy
 
 
+## Google Colab Paylaşım Linki
+
+https://colab.research.google.com/drive/1oKb48oyTCJRf15cnUR0sxCnh2iSYeiCX?usp=sharing
+
+
 ## İçindekiler
 
 - [Özet](#özet)
