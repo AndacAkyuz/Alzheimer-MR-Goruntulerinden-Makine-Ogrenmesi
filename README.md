@@ -2,6 +2,11 @@
 
 Bu proje, MR görüntülerinden Alzheimer hastalığını tespit etmek için kullanılan Dönüştürücü (Transformer) modellerinin uygulanmasını içermektedir. Çalışma, Google Colab üzerinde gerçekleştirilmiş ve çeşitli performans metrikleri ile değerlendirilmiştir.
 
+##Kullanılan Veri Seti 
+
+https://www.kaggle.com/datasets/lukechugh/best-alzheimer-mri-dataset-99-accuracy
+
+
 ## İçindekiler
 
 - [Özet](#özet)
